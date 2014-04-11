@@ -1,0 +1,63 @@
+\documentclass[spanish,a4paper,11pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[dvips]{graphicx}
+\usepackage[dvips]{epsfig}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\PI}{{$\pi$}}
+
+
+\textwidth 15 cm
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% First Page 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{El número \PI}
+\author{Dácil Esther Batista García}
+\date{10 de abril del 2014}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+El número pi, representado por la letra griega \PI, equivale a la constante que relaciona el perímetro o longitud de una circunferencia con su diámetro. Se trata de un valor con un infinito número de decimales, cuya secuencia comienza de la siguiente manera:
+
+\centerline{3,1415926535897932384626433832795028841\dots}
+
+Redondeado en 3,1416, pi es un número irracional -no puede representarse de forma fraccional-, frecuentemente utilizado en las matemáticas y en la física, además de en otras disciplinas como la geometría y la trigonometría.
+\end{abstract}
+
+\section{Inicios del número \PI}
+Ya en la antigüedad, se insinuó que todos los círculos conservaban una estrecha dependencia entre el contorno y su radio pero tan sólo desde el siglo XVII la correlación se convirtió en un dígito y fue identificado con el nombre "Pi".
+
+Esta notación fue usada por primera vez en 1706 por el matemático galés William Jones y popularizada por el matemático Leonard Euler en su obra "Introducción al cálculo infinitesimal" de 1748. Fue conocida anteriormente como constante de Ludoph (en honor al matemático Ludolph van Ceulen) o como constante de Arquímedes.
+
+El valor computado de esta constante ha sido conocido con diferentes precisiones en el curso de la historia, de esta forma en una de las referencias documentadas más antiguas como la Biblia aparece de forma indirecta asociada con el número natural 3 y en Mesopotamia los matemáticos la empleaban como 3 y una fracción añadida de 1/8.
+
+\PI es una de las constantes matemáticas que más aparece en las ecuaciones de la física, junto con el número e, y es, tal vez por ello la constante que más pasiones desata entre los matemáticos profesionales y aficionados.
+
+Euclides precisa en sus Elementos los pasos al límite necesarios e investiga un sistema consistente en doblar, al igual que Antiphon, el número de lados de los polígonos regulares y en demostrar la convergencia del procedimiento.
+
+Arquímedes reúne y amplía estos resultados. Prueba que el área de un círculo es la mitad del producto de su radio por la circunferencia y que la relación del perímetro al diámetro está comprendida entre 3,14084 y 3,14285.
+
+En el siglo II d. de C., Ptolomeo utiliza polígonos de hasta 720 lados y una circunferencia de 60 unidades de radio para  aproximarse un poco más, y da el valor:
+
+\centerline{$3 + frac{8}{60} + frac {30}{3600}= frac{377}{120} = 3'14166\dots$}
+
+Conforme se han desarrollado las matemáticas, en sus diversas ramas, álgebra, cálculo,\dots, se han ido construyendo distintos artificios que permiten afinar cada vez más su valor.
+%\begin{itemize}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
